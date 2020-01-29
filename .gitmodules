@@ -1,0 +1,6 @@
+[submodule "polygon_path"]
+	path = polygon_path
+	url = https://github.com/HungryProton/polygon_path.git
+[submodule "scatter"]
+	path = scatter
+	url = https://github.com/HungryProton/scatter.git
